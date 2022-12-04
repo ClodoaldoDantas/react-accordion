@@ -13,6 +13,8 @@ Componente `accordion` construido em React JS.
 - [React](https://pt-br.reactjs.org/)
 - [Sass](https://sass-lang.com/)
 - [TypeScript](https://www.typescriptlang.org/)
+- [Vitest](https://vitest.dev/)
+- [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
 
 ## 🔥 Instalação
 
