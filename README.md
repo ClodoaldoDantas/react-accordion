@@ -1,7 +1,8 @@
 ## 📫 React Accordion
 
 [![Author](https://img.shields.io/badge/author-ClodoaldoDantas-1c2022)](https://github.com/ClodoaldoDantas)
-[![Languages](https://img.shields.io/github/languages/count/ClodoaldoDantas/react-accordion?color=1c2022)](#)
+
+![preview](https://user-images.githubusercontent.com/32376905/205507428-399d558d-01d3-4558-bc49-e650aec93824.png)
 
 ## 💻 Projeto
 
