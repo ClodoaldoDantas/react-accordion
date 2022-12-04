@@ -5,7 +5,7 @@
 
 ## 💻 Projeto
 
-Componente _accordion_ construido em React JS.
+Componente `accordion` construido em React JS.
 
 ## 🚀 Tecnologias
 
